@@ -1,0 +1,66 @@
+{
+  "candidates": [
+    {
+      "id": 5,
+      "name": "New Candidate",
+      "branch": "Some Branch",
+      "section": "A"
+    }
+  ],
+  "Subjects": [
+    {
+      "subjectId": 2001,
+      "subjectName": "M1"
+    },
+    {
+      "subjectId": 2010,
+      "subjectName": "M2"
+    },
+    {
+      "subjectId": 2012,
+      "subjectName": "M3"
+    },
+    {
+      "subjectId": 2222,
+      "subjectName": "Software ENgineering"
+    },
+    {
+      "subjectId": 2323,
+      "subjectName": "EGM"
+    },
+    {
+      "subjectId": 2562,
+      "subjectName": "Physics"
+    },
+    {
+      "subjectId": 2564,
+      "subjectName": "BEE"
+    }
+  ],
+  "Branches": [
+    {
+      "branchId": 1111,
+      "branchName": "CSE"
+    },
+    {
+      "branchId": 2222,
+      "branchName": "ECE"
+    },
+    {
+      "branchId": 3333,
+      "branchName": "IT"
+    },
+    {
+      "branchId": 4444,
+      "branchName": "MECH"
+    },
+    {
+      "branchId": 5555,
+      "branchName": "CIVIL"
+    },
+    {
+      "branchId": 6666,
+      "branchName": "EEE"
+    }
+  ]
+}
